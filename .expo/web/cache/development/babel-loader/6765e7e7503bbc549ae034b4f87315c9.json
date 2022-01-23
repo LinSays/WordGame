@@ -1,0 +1,1 @@
+{"ast":null,"code":"import Colors from \"./Colors\";\nexport { Colors };","map":{"version":3,"sources":["E:/Work/Web/ReactNative/Test/app/style/colors/index.ts"],"names":["Colors"],"mappings":"AAAA,OAAOA,MAAP;AAEA,SAASA,MAAT","sourcesContent":["import Colors from \"./Colors\";\r\n\r\nexport { Colors };\r\n"]},"metadata":{},"sourceType":"module"}

@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { default } from \"./ProblemScreen\";","map":{"version":3,"sources":["E:/Work/Web/ReactNative/Test/app/screens/Problem/index.tsx"],"names":["default"],"mappings":"AAAA,SAASA,OAAT","sourcesContent":["export { default } from \"./ProblemScreen\";\r\n"]},"metadata":{},"sourceType":"module"}

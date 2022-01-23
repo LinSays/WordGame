@@ -1,0 +1,25 @@
+{   
+    "data":{
+        "words":[
+            "folgen", "Schaf","Bereiden","Bier","Bild","Wein","Pult","Tasse","Wasser"
+        ],
+        "problems": [
+            {
+                "id":1,
+                "english":["The", "house", "is", "small"],
+                "german":["Das", "Hause", "ist", "klein"]
+            },
+            {
+                "id":2,
+                "english":["I", "have to", "go", "workspace"],
+                "german":["Ich", "muss", "zum", "Arbeitsplatz"]
+            },
+            {
+                "id":3,
+                "english":["This", "novel", "is", "interesting"],
+                "german":["Dieser", "Roman", "ist", "interessant"]
+            }
+        ]
+
+    }
+}

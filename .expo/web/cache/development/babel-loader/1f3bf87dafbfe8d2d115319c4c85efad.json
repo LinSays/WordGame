@@ -1,0 +1,1 @@
+{"ast":null,"code":"import navigate from \"./navigate\";\nexport { navigate };","map":{"version":3,"sources":["E:/Work/Web/ReactNative/Test/app/navigation/index.ts"],"names":["navigate"],"mappings":"AAAA,OAAOA,QAAP;AAEA,SAASA,QAAT","sourcesContent":["import navigate from \"./navigate\";\r\n\r\nexport { navigate };\r\n"]},"metadata":{},"sourceType":"module"}

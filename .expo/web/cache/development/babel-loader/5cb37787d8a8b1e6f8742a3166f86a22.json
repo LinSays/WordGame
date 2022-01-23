@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { Font } from \"./Font\";\nexport { Font };","map":{"version":3,"sources":["E:/Work/Web/ReactNative/Test/app/style/font/index.ts"],"names":["Font"],"mappings":"AAAA,SAASA,IAAT;AAEA,SAASA,IAAT","sourcesContent":["import { Font } from \"./Font\";\r\n\r\nexport { Font };\r\n"]},"metadata":{},"sourceType":"module"}

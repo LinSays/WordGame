@@ -1,0 +1,1 @@
+{"ast":null,"code":"export {};","map":{"version":3,"sources":[],"names":[],"mappings":"","sourcesContent":["import { StackNavigationOptions } from \"@react-navigation/stack\";\r\n\r\ninterface NavStatelessComponent extends React.FC {\r\n  navigationOptions?: StackNavigationOptions;\r\n}\r\n\r\nexport default NavStatelessComponent;\r\n"]},"metadata":{},"sourceType":"module"}
